@@ -12,7 +12,7 @@
  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-Aprendendo mais a cada dia que passa.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eicarlosz&show_icons=true&theme=transparent)
 
 ## Gmail para contato:
 - Gmail: carlossouzaprofissional@gmail.com
