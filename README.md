@@ -25,10 +25,10 @@ Graduating in Systems Analysis and Development (UNISA - Universidade Santo Amaro
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,git,r" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,java,mysql,springboot" /><br>
 </div>
 
