@@ -31,8 +31,6 @@ Graduating in Systems Analysis and Development (UNISA - Universidade Santo Amaro
 </div>
 
 <br/>
-<hr/>
-
 <h2 align="center">Stats</h2>
 <br>
 <div align=center>
