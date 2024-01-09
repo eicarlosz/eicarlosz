@@ -35,6 +35,6 @@ Graduating in Systems Analysis and Development (UNISA - Universidade Santo Amaro
 <h2 align="center">Stats</h2>
 <br>
 <div align=center>
-     <img width=390 src="https://github-readme-stats-eiCarlosz.vercel.app/api?username=eiCarlosz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+     <img width=390 src="https://github-readme-stats-eicarlosz.vercel.app/api?username=eicarlosz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
